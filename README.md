@@ -4,7 +4,7 @@
 
 https://celadon-meerkat-380eaf.netlify.app/
 ## PROJECT PREVIEW
-![Design preview for the project](./link)
+![Design preview for the project](https://github.com/eStoreLabs/220616-LO-355-Kerastase-Blond-Absolu-Kapiel-Cicaextreme-Friser/blob/main/kapiel-cica-extreme-screenshot.png)
 
 ## CONTACT PERSON
 Dominika Wójcik
