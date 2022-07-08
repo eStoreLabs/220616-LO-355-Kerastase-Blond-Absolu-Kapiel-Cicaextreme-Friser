@@ -2,7 +2,7 @@
 
 ## LIVE SITE LINK 
 
-![Project live site](https://celadon-meerkat-380eaf.netlify.app/)
+https://celadon-meerkat-380eaf.netlify.app/
 ## PROJECT PREVIEW
 ![Design preview for the project](./link)
 
